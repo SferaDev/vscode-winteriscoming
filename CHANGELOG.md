@@ -1,5 +1,15 @@
 # Winter is Coming theme Changelog
 
+<a name="2.0.0"></a>
+
+## 2.0.0 (2021-03-19)
+
+- Add old light no italics theme.
+
+--------------------------------------------------------------------------------------------
+
+Original repo CHANGELOG:
+
 <a name="1.3.1"></a>
 
 ## 1.3.1 (2020-03-13)

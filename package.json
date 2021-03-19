@@ -1,22 +1,21 @@
 {
-  "name": "winteriscoming",
-  "displayName": "Winter is Coming Theme",
-  "description": "Preferred dark/light themes by John Papa",
+  "name": "oldwinteriscoming",
+  "displayName": "Old Winter is Coming Light Theme",
+  "description": "Fork of the original light themes by John Papa",
   "icon": "images/winteriscoming-icon.png",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/johnpapa/vscode-winteriscoming.git"
+    "url": "https://github.com/SferaDev/vscode-winteriscoming.git"
   },
   "galleryBanner": {
-    "color": "#373436",
-    "theme": "dark"
+    "color": "#c8cbc9",
+    "theme": "light"
   },
-  "version": "1.3.1",
-  "publisher": "johnpapa",
+  "version": "2.0.0",
+  "publisher": "SferaDev",
   "keywords": [
     "Theme",
-    "Dark Theme",
     "Light Theme"
   ],
   "scripts": {
@@ -34,29 +33,14 @@
   "contributes": {
     "themes": [
       {
-        "label": "Winter is Coming (Dark Blue)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/WinterIsComing-dark-blue-color-theme.json"
+        "label": "Old Winter is Coming (Light)",
+        "uiTheme": "vs",
+        "path": "./themes/WinterIsComing-light-color-no-italics-theme.json"
       },
       {
-        "label": "Winter is Coming (Dark Blue - No Italics)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/WinterIsComing-dark-blue-color-no-italics-theme.json"
-      },
-      {
-        "label": "Winter is Coming (Light)",
+        "label": "Old Winter is Coming (Light - Italics)",
         "uiTheme": "vs",
         "path": "./themes/WinterIsComing-light-color-theme.json"
-      },
-      {
-        "label": "Winter is Coming (Dark Black)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/WinterIsComing-dark-color-theme.json"
-      },
-      {
-        "label": "Winter is Coming (Dark Black - No Italics)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/WinterIsComing-dark-color-no-italics-theme.json"
       }
     ]
   }
