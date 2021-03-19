@@ -6,7 +6,7 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 ## Light Theme
 
-![Light Theme](images/800-3-light.png)
+![Light Theme](images/light-demo.jpg)
 
 ## Usage
 
