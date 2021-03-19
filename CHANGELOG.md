@@ -2,6 +2,10 @@
 
 <a name="2.0.0"></a>
 
+## 2.0.1 (2021-03-19)
+
+- Update metadata and publish to vs marketplace
+
 ## 2.0.0 (2021-03-19)
 
 - Add old light no italics theme.
